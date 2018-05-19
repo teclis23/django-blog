@@ -1,0 +1,12 @@
+html, body {
+    margin: 0px;
+    padding:0px;
+}
+
+h1 a {
+    color: #FCA205;
+}
+
+.blog_list_wrapper {
+    padding-left:20px;
+}

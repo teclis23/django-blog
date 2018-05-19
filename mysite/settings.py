@@ -25,7 +25,7 @@ SECRET_KEY = '9amr0d4-&b&2kw*16m*ct($_nac6w@!4r+xsmik5!yr5e5r7s$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'teclis.pythonanywhere.com']
+ALLOWED_HOSTS = ['0.0.0.0', '172.28.5.222', '127.0.0.1', 'teclis.pythonanywhere.com']
 
 
 # Application definition
